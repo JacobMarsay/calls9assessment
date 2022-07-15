@@ -1,0 +1,23 @@
+footer {
+    background: #3c3f43;
+}
+
+.footer__nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.footer__nav li {
+    list-style: none;
+    overflow: hidden;
+}
+
+.footer__nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    padding: 1rem;
+}

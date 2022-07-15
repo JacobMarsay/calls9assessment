@@ -1,0 +1,18 @@
+.find__out__more {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.find__out__more p,
+.find__out__more a {
+    font-size: 2rem;
+    text-decoration: none;
+    
+}
+
+.find__out__more img {
+    width: 3rem;
+}
